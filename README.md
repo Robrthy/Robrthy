@@ -19,5 +19,5 @@
 </div><br>
 
 ## Cursos que eu fiz e Recomendo
-Curso em video:<a href="https://www.cursoemvideo.com/" target="_blank"><br>
+Curso em video:https://www.cursoemvideo.com/<br>
 Rocketseat:https://app.rocketseat.com.br/discover/course/ds-tipos-app-web/tipos-de-aplicacoes-web/o-que-e-uma-webpage
