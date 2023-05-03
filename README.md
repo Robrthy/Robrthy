@@ -23,18 +23,18 @@ Rocketseat:https://app.rocketseat.com.br/discover/course/ds-tipos-app-web/tipos-
 # Sobre min
 ____________________________________________________________
 
-Sou Robrthy tenho 12 anos programo desde meus 10anos, tenho uma experiencia com Html5 e Css3 agora estou aprendendo JavaScript. <br>
+Olá!,sou Robrthy tenho 12 anos programo desde meus 10anos, tenho uma certa experiencia com Html5 e Css3 agora estou aprendendo JavaScript. <br>
 
-começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o Vs cocde aprendi as tags h1,h2,h3.. aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele fiz um grande site que se chama GOOGLE GLASS, depois de eu terminar esse curso eu fu pro curso da Rocketseat, lá estou aprendendo mais coisas.
+Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o Vs cocde aprendi as tags h1,h2,h3.. aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele fiz um grande site que se chama GOOGLE GLASS, depois de eu terminar esse curso eu fu pro curso da Rocketseat, lá estou aprendendo mais coisas.
 
 <br>
 
-Meu encentivo para programar veio do meu irmão Roge, ele tem 26anos ele se apaixono por programação e tecnologias, Acesse o gitHub dele:https://github.com/rogersene/
+Meu encentivo para programar veio do meu irmão Roger, ele tem 26anos ele ele é apaixonado por resolver problemas utilizando a progrmação, Acesse o gitHub Dele:https://github.com/rogersene/
 
 <br>
 ____________________________________________________________
 
-## minhas musicas que escuto diaramente:
+## Musicas que escuto diaramente:
 
 https://youtu.be/fnlJw9H0xAM
 <br>
@@ -45,3 +45,5 @@ https://www.youtube.com/watch?v=mRD0-GxqHVo
 https://www.youtube.com/watch?v=CQLsdm1ZYAw
 <br>
 https://youtu.be/RgKAFK5djSk
+
+## Meu discord: robrthy#3385 
