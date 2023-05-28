@@ -15,8 +15,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
-______________________________________________________________________________________________________________________________________________
-
+____________________________________________________________________________________________________________________________________________
 ## Cursos que eu fiz e Recomendo
 <br>
 
@@ -24,7 +23,7 @@ Curso em video:https://www.cursoemvideo.com/<br>
 Rocketseat:https://app.rocketseat.com.br/discover/course/ds-tipos-app-web/tipos-de-aplicacoes-web/o-que-e-uma-webpage
 
 <br>
-______________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
 
 ## Sobre min
 
@@ -38,6 +37,6 @@ Meu encentivo para programar veio do meu irmão Roger, ele tem 26 anos ele é ap
 
 
 <br>
-______________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________
 
 ## Meu discord: robrthy#3385 
