@@ -8,29 +8,36 @@
 ![robrthy GitHub stats](https://github-readme-stats.vercel.app/api?username=robrthy&show_icons=true&theme=radical)
 
 
-## Tecnologias que uso no meu dia a dia
+## Tecnologias que eu uso!🙂
 
 <div style="display: inlaine_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 </div><br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Cursos que eu fiz e Recomendo
+## Cursos que eu fiz e Recomendo 🖖
 <br>
 
-Curso em video:https://www.cursoemvideo.com/<br>
+Curso em video:https://www.cursoemvideo.com/
+
+<br>
+
 Rocketseat:https://app.rocketseat.com.br/discover/course/ds-tipos-app-web/tipos-de-aplicacoes-web/o-que-e-uma-webpage
 
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Sobre min
+## Sobre min 😁 
 
 <br>
 
-Olá!,sou Robrthy tenho 12 anos programo desde meus 10 anos, tenho um pouco de experiencia com Html5 e Css3 agora estou aprendendo JavaScript. <br>
+Olá!,Sou Robrthy tenho 12 anos estudo desde meus 10 anos, tenho um pouco de experiencia com Html5 e Css3 agora estou aprendendo JavaScript. <br>
 
 Começei fazendo primeiro o curso do Gustavo Guanabara lá aprendi a mecher com o Vs cocde aprendi as tags h1,h2,h3.. aprendi Css3, e um pouco de JavaScript depois fiz outro curso dele fiz um grande site que se chama GOOGLE GLASS, depois de eu terminar esse curso eu fu pro curso da Rocketseat, lá estou aprendendo mais coisas.
 
