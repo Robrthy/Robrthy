@@ -1,4 +1,4 @@
-# Olá! sou Robrthy de sene crescencio! 😃
+---# Olá! sou Robrthy de sene crescencio! 😃
 
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
@@ -47,4 +47,11 @@ Meu encentivo para programar veio do meu irmão Roger, ele tem 26 anos ele é ap
 <br>
 ____________________________________________________________________________________________________________________________________________ 
 
-## Meu discord: robrthy#3385 
+## Meus Projetos Realizados😎
+
+Player de Música:https://robrthy.github.io/player-de-musica/
+Product Sofá:https://robrthy.github.io/Product-card/ (EM MANUTENÇÃO)
+
+____________________________________________________________________________________________________________________________________________ 
+
+## Meu discord: robrthy#3385
